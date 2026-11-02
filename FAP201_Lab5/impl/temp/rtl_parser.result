@@ -1,0 +1,20 @@
+[
+ {
+  "InstFile" : "D:/KY_4_IC2001/FAP201/FAP201_Lab5/src/lab05tb.vhd",
+  "InstLine" : 4,
+  "InstName" : "lab05_TB",
+  "ModuleFile" : "D:/KY_4_IC2001/FAP201/FAP201_Lab5/src/lab05tb.vhd",
+  "ModuleLine" : 4,
+  "ModuleName" : "lab05_TB",
+  "SubInsts" : [
+   {
+    "InstFile" : "D:/KY_4_IC2001/FAP201/FAP201_Lab5/src/lab05tb.vhd",
+    "InstLine" : 14,
+    "InstName" : "UUT",
+    "ModuleFile" : "D:/KY_4_IC2001/FAP201/FAP201_Lab5/src/lab05.vhd",
+    "ModuleLine" : 4,
+    "ModuleName" : "lab05"
+   }
+  ]
+ }
+]
